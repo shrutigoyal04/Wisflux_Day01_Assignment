@@ -93,4 +93,4 @@ const final = _.reduce(
   0
 );
 
-console.warn(final);
+console.log(final);
